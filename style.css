@@ -1,0 +1,9 @@
+.container {
+    margin: 0 auto;
+    width: 90%;
+    height: 1000px;
+    border: 4px solid black;
+    display: grid;
+    grid-template-columns: 200px 100px 200px; 
+    /* Tells grid to make 3 columns */
+}
